@@ -1,2 +1,2 @@
 # Python-Repo
-# Building a resume on my python self-training as I to progress...
+# Basic Beginner Python Projects
