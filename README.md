@@ -1,2 +1,2 @@
-# Python-Repo
-# Basic Beginner Python Projects
+# Beginner Python projects
+- Basic Beginner Python Projects
